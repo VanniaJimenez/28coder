@@ -1,0 +1,269 @@
+/* Tu CSS va aqui */
+
+/*Fondos*/
+
+/*fondoaheader*/
+
+* {
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.fondoheader{
+	background-image:url(../img/header1.jpg);
+	size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 35em;
+}
+
+li {
+	margin-left: 58%;
+}
+
+
+/*Fondo coral */
+.fondopag {
+	background-color:#FF7360;
+	width: 102.7%;
+	margin-left: -1.3%;
+	
+}
+
+nav {
+	background-color: transparent !important;
+	border-color: transparent !important; 
+
+}
+
+/*Header*/
+.blanco {
+	color: white;
+}
+
+
+
+/*Section*/
+h1 {
+	padding: 10% 10% 0% 25%;
+	
+}
+
+.piq {
+	width: 5%;
+	margin-left: 45%;
+	border: solid 1px #FF7360;
+
+}
+
+.center {
+	text-align: center;
+}
+
+.dere {
+	margin-left: 43%;
+	margin-top: 4%;
+	border-radius:20px;
+	border-style: none;
+	background-color:#FF7360; 
+	padding: 1%;
+	width: 10%;
+}
+
+.bla {
+	width: 5%;
+	margin-left: 47%;
+	border: solid 1px white;
+}
+
+.parri {
+	padding-bottom: 5%;
+}
+.ser { 
+	margin-top: 4%;
+	margin-left:43%;
+}
+.diamante {
+	margin-left: 40%;
+}
+
+.iconoal{
+	margin-top: 5%;
+}
+.mar {
+	margin-bottom: 10%;
+}
+/*fotos*/
+.fondoa {
+	background-image: url(../img/3.jpg);
+
+}
+.imagenes {
+	width: 110%;
+	height: 90%;
+}
+
+.ma {
+	margin-top: 10%;
+}
+
+/*Githubinfo*/
+
+.negro {
+	background-color: #1C181F;
+	margin-top: -1.5%;
+	width: 103.2%
+}
+
+.pad {
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+
+.git {
+	margin-left: 45%;
+	border-radius:20px;
+	border-style: none;
+	background-color:white; 
+	padding: 1%;
+	width: 10%;
+	margin-bottom: 2%;
+}
+
+
+.black {
+	color: black;
+	font-size: 12px;
+}
+
+/*footer*/
+
+.fuente {
+	font-size: 10px;
+}
+.de {
+	margin-left: 70%;
+	margin-top: 3%;
+}
+.le {
+	margin-left: 65%;
+}
+
+.de2 {
+	margin-left: 20%;
+	margin-top: 3%;
+}
+
+.le2 {
+	margin-left: 15%;
+}
+
+.color {
+	color: #FF7360;
+}
+
+/*Media*/
+
+@media (max-width: 500px) {
+	/*header*/
+	.naranja {
+		color: #FF7360;
+		font-size: 22px;
+		margin-top: -7%
+	}
+	.fondoheader {
+		margin-top: 10%;
+	}
+	/*Section1*/
+	.dere { 
+		margin-left:30%;
+		width: 25%;
+
+	}
+
+	/*Section2*/
+	.fondopag{
+		width: 108%;
+		margin-left: -4%;
+
+	}
+
+	.esp {
+		margin-left: 2%;
+	}
+
+	.serv {
+		margin-left: 38%;
+	}
+
+	.diamante {
+		margin-left: 45%;
+	}
+
+	.fotos {
+		margin:0%;
+	}
+
+	.cuadronar {
+		background-color: #FF7360;
+		width: 100%;
+		height: 250px;
+		opacity: 0;
+
+	}
+	.fondi { 
+		background-image: url(../img/3aa.jpg);
+			 width: 110%;
+			 height: 220px;
+	}
+	
+	.cuadronar:hover{
+		opacity: .8;
+	}
+
+	.blan {
+			color: white;
+			font-size: 18px;
+			margin-left: 30%;
+			margin-bottom: 0px;
+	}
+	.top {
+		padding-top: 20%;
+	}
+
+	.lolo{
+		background-image: url(../img/esta.jpg);
+		width: 110%;
+		height: 200%;
+	}
+
+.negro {
+		margin-top: -2.6%;
+		width: 110%;
+	}
+.git {
+		width: 30%;
+		margin-bottom: 5%;
+		margin-left: 35%;
+}
+
+.contacto {
+	margin-left: 40%;
+}
+
+.centrado {
+	margin-left: 50%;
+}
+
+.fuente {
+	font-size: 1em;
+}
+
+.lepo {
+	width: 10%;
+	height: 10%;
+}
+
+.espacios {
+	margin-left: 42%;
+	padding: 2%;
+
+}
